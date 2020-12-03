@@ -245,6 +245,7 @@ img {
   font-size: 2rem;
   background: var(--main-gray);
   transition: background 0.3s ease-out;
+  margin-top: 60px;
 }
 
 .btn-show-all:hover {
