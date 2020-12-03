@@ -1,3 +1,4 @@
+/* Suggested presets */
 :root {
   --main-white: #f0f0f0;
   --main-red: #be3144;
@@ -42,9 +43,9 @@ html {
     font-size: 55%;
   }
 }
+/*  */
 
 /* Base styles */
-
 body {
   font-family: "Poppins", sans-serif;
   font-size: 1.8rem; /* 18px */
@@ -82,9 +83,9 @@ img {
   display: block;
   width: 100%;
 }
+/*  */
 
 /* nav */
-
 .nav {
   display: flex;
   justify-content: flex-end;
@@ -121,6 +122,7 @@ img {
 .nav-list a:hover {
   background: var(--main-blue);
 }
+/*  */
 
 /* Welcome section */
 .welcome-section {
@@ -164,6 +166,7 @@ img {
     height: 150px;
   }
 }
+/*  */
 
 /* Portfolio */
 .portfolio-section {
@@ -261,9 +264,9 @@ img {
   transform: translateX(0);
   transition: transform 0.3s ease-out;
 }
+/*  */
 
 /* Contact section */
-
 .contact-section {
   display: flex;
   flex-direction: column;
@@ -333,7 +336,6 @@ aside {
   margin-bottom: 2em;
   margin-top: 30px;
 }
-
 /*  */
 
 /* Footer */
@@ -383,12 +385,12 @@ footer i {
     width: 50%;
   }
 }
+/*  */
 
 /* Music */
 .song-section {
   text-align: center;
   font-size: 20px;
-  /* margin-bottom: 20px; */
   background-color: rgb(43, 43, 43);
   color: white;
   font-family: "Comfortaa";
@@ -421,6 +423,7 @@ footer i {
     margin-top: 30px;
   }
 }
+/*  */
 
 /* About me */
 .about-me-section {
@@ -458,3 +461,4 @@ footer i {
     margin-top: 30px;
   }
 }
+/*  */
