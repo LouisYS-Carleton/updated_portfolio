@@ -56,4 +56,4 @@ My name is Louis Yacksmith and I am a Front-end Web Developer from Ottawa, Ontar
 
 Project Link: [https://github.com/LouisYS-Carleton](https://github.com/LouisYS-Carleton)
 
-Linkedin: https://www.linkedin.com/in/louis-yacksmith-2a06321b2/
+Linkedin: [https://www.linkedin.com/in/louis-yacksmith-2a06321b2/]https://www.linkedin.com/in/louis-yacksmith-2a06321b2/
